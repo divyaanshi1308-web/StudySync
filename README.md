@@ -45,12 +45,6 @@ Here are some UI screenshots for the app:
     <img src="img/landing_ui.png" alt="Landing Page UI" width="100%">
 </p>
 
-### Home Page (Dashboard)
-
-<p align="center">
- <img src="<img width="1919" height="1004" alt="img dashboard">
-</p>
-
 ### Tools List
 
 <p align="center">
