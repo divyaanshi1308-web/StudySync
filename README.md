@@ -48,7 +48,8 @@ Here are some UI screenshots for the app:
 ### Home Page (Dashboard)
 
 <p align="center">
- <img src="img/home_ui.png" alt="Home Page UI" width="100%">
+ <img src="<img width="1919" height="1004" alt="Screenshot 2026-04-29 232721" src="https://github.com/user-attachments/assets/646b199a-a0ba-4430-9c69-71d4bb444134" />
+" alt="Home Page UI" width="100%">
 </p>
 
 ### Tools List
